@@ -29,7 +29,7 @@
 
 # 自行搭建
 
-注册一个[cloudflare](https://dash.cloudflare.com/)账户,并转到[workers](workers.cloudflare.com),验证邮箱,随便填写一个子域名,就可以创建workers了,内容就是[index.js](https://github.com/TES286/dl_proxy/raw/master/index.js)[备用](https://proxy.0123465789.workers.dev/https://github.com/TES286/dl_proxy/raw/master/index.js)
+注册一个[cloudflare](https://dash.cloudflare.com/)账户,并转到[workers](https://workers.cloudflare.com),验证邮箱,随便填写一个子域名,就可以创建workers了,内容就是[index.js](https://github.com/TES286/dl_proxy/raw/master/index.js) [备用](https://proxy.0123465789.workers.dev/https://github.com/TES286/dl_proxy/raw/master/index.js)
 
 > 如果让你添加域名,别管,另外,可以选择简体中文的语言的
 >
