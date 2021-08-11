@@ -11,7 +11,7 @@
 # 使用方法
 直接拼接源地址到站点地址之后即可,如下:
 
-> 假设需要下载 https://example.com/example.file 站点地址是 https://proxy.0123465789.workers.dev/ 则直接访问下面的链接即可
+> 假设需要下载 https://example.com/example.file 站点地址是 https://proxy.0123456789.workers.dev/ 则直接访问下面的链接即可
 >
 > > 一定要带上http或https头!!!
 >
