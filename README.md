@@ -23,7 +23,9 @@
 
 2: proxy.123456abc.workers.dev
 
-3: proxy.tes286.workers.dev (不建议)
+3: proxy.1324321.workers.dev
+
+4: proxy.tes286.workers.dev (不建议)
 
 同时欢迎大家将自己的节点共享出来,可以在issue界面联系我
 
